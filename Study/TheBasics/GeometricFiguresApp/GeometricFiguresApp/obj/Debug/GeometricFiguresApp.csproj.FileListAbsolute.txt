@@ -1,0 +1,7 @@
+D:\Projects\Study\TheBasics\GeometricFiguresApp\GeometricFiguresApp\bin\Debug\GeometricFiguresApp.exe.config
+D:\Projects\Study\TheBasics\GeometricFiguresApp\GeometricFiguresApp\bin\Debug\GeometricFiguresApp.exe
+D:\Projects\Study\TheBasics\GeometricFiguresApp\GeometricFiguresApp\bin\Debug\GeometricFiguresApp.pdb
+D:\Projects\Study\TheBasics\GeometricFiguresApp\GeometricFiguresApp\obj\Debug\GeometricFiguresApp.csproj.AssemblyReference.cache
+D:\Projects\Study\TheBasics\GeometricFiguresApp\GeometricFiguresApp\obj\Debug\GeometricFiguresApp.csproj.CoreCompileInputs.cache
+D:\Projects\Study\TheBasics\GeometricFiguresApp\GeometricFiguresApp\obj\Debug\GeometricFiguresApp.exe
+D:\Projects\Study\TheBasics\GeometricFiguresApp\GeometricFiguresApp\obj\Debug\GeometricFiguresApp.pdb

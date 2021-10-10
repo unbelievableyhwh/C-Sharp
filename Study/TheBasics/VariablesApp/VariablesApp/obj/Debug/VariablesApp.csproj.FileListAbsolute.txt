@@ -1,0 +1,7 @@
+D:\Projects\Study\TheBasics\VariablesApp\VariablesApp\bin\Debug\VariablesApp.exe.config
+D:\Projects\Study\TheBasics\VariablesApp\VariablesApp\bin\Debug\VariablesApp.exe
+D:\Projects\Study\TheBasics\VariablesApp\VariablesApp\bin\Debug\VariablesApp.pdb
+D:\Projects\Study\TheBasics\VariablesApp\VariablesApp\obj\Debug\VariablesApp.csproj.AssemblyReference.cache
+D:\Projects\Study\TheBasics\VariablesApp\VariablesApp\obj\Debug\VariablesApp.csproj.CoreCompileInputs.cache
+D:\Projects\Study\TheBasics\VariablesApp\VariablesApp\obj\Debug\VariablesApp.exe
+D:\Projects\Study\TheBasics\VariablesApp\VariablesApp\obj\Debug\VariablesApp.pdb

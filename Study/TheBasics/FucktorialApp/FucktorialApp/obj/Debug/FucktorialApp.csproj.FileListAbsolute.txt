@@ -1,0 +1,7 @@
+D:\Projects\Study\TheBasics\FucktorialApp\FucktorialApp\bin\Debug\FucktorialApp.exe.config
+D:\Projects\Study\TheBasics\FucktorialApp\FucktorialApp\bin\Debug\FucktorialApp.exe
+D:\Projects\Study\TheBasics\FucktorialApp\FucktorialApp\bin\Debug\FucktorialApp.pdb
+D:\Projects\Study\TheBasics\FucktorialApp\FucktorialApp\obj\Debug\FucktorialApp.csproj.AssemblyReference.cache
+D:\Projects\Study\TheBasics\FucktorialApp\FucktorialApp\obj\Debug\FucktorialApp.csproj.CoreCompileInputs.cache
+D:\Projects\Study\TheBasics\FucktorialApp\FucktorialApp\obj\Debug\FucktorialApp.exe
+D:\Projects\Study\TheBasics\FucktorialApp\FucktorialApp\obj\Debug\FucktorialApp.pdb

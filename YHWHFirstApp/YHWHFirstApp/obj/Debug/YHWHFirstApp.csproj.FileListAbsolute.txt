@@ -1,0 +1,7 @@
+D:\Projects\YHWHFirstApp\YHWHFirstApp\bin\Debug\YHWHFirstApp.exe.config
+D:\Projects\YHWHFirstApp\YHWHFirstApp\bin\Debug\YHWHFirstApp.exe
+D:\Projects\YHWHFirstApp\YHWHFirstApp\bin\Debug\YHWHFirstApp.pdb
+D:\Projects\YHWHFirstApp\YHWHFirstApp\obj\Debug\YHWHFirstApp.csproj.AssemblyReference.cache
+D:\Projects\YHWHFirstApp\YHWHFirstApp\obj\Debug\YHWHFirstApp.csproj.CoreCompileInputs.cache
+D:\Projects\YHWHFirstApp\YHWHFirstApp\obj\Debug\YHWHFirstApp.exe
+D:\Projects\YHWHFirstApp\YHWHFirstApp\obj\Debug\YHWHFirstApp.pdb

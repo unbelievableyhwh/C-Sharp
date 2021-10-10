@@ -1,0 +1,7 @@
+D:\Projects\Study\TheBasics\ClassAppFirst\ClassAppFirst\bin\Debug\ClassAppFirst.exe.config
+D:\Projects\Study\TheBasics\ClassAppFirst\ClassAppFirst\bin\Debug\ClassAppFirst.exe
+D:\Projects\Study\TheBasics\ClassAppFirst\ClassAppFirst\bin\Debug\ClassAppFirst.pdb
+D:\Projects\Study\TheBasics\ClassAppFirst\ClassAppFirst\obj\Debug\ClassAppFirst.csproj.AssemblyReference.cache
+D:\Projects\Study\TheBasics\ClassAppFirst\ClassAppFirst\obj\Debug\ClassAppFirst.csproj.CoreCompileInputs.cache
+D:\Projects\Study\TheBasics\ClassAppFirst\ClassAppFirst\obj\Debug\ClassAppFirst.exe
+D:\Projects\Study\TheBasics\ClassAppFirst\ClassAppFirst\obj\Debug\ClassAppFirst.pdb

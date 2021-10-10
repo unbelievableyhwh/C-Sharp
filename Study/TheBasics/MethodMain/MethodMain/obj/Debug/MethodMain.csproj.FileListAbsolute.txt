@@ -1,0 +1,7 @@
+D:\Projects\Study\TheBasics\MethodMain\MethodMain\bin\Debug\MethodMain.exe.config
+D:\Projects\Study\TheBasics\MethodMain\MethodMain\bin\Debug\MethodMain.exe
+D:\Projects\Study\TheBasics\MethodMain\MethodMain\bin\Debug\MethodMain.pdb
+D:\Projects\Study\TheBasics\MethodMain\MethodMain\obj\Debug\MethodMain.csproj.AssemblyReference.cache
+D:\Projects\Study\TheBasics\MethodMain\MethodMain\obj\Debug\MethodMain.csproj.CoreCompileInputs.cache
+D:\Projects\Study\TheBasics\MethodMain\MethodMain\obj\Debug\MethodMain.exe
+D:\Projects\Study\TheBasics\MethodMain\MethodMain\obj\Debug\MethodMain.pdb

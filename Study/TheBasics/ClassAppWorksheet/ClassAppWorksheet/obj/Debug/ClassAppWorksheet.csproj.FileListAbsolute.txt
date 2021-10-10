@@ -1,0 +1,7 @@
+D:\Projects\Study\TheBasics\ClassAppWorksheet\ClassAppWorksheet\bin\Debug\ClassAppWorksheet.exe.config
+D:\Projects\Study\TheBasics\ClassAppWorksheet\ClassAppWorksheet\bin\Debug\ClassAppWorksheet.exe
+D:\Projects\Study\TheBasics\ClassAppWorksheet\ClassAppWorksheet\bin\Debug\ClassAppWorksheet.pdb
+D:\Projects\Study\TheBasics\ClassAppWorksheet\ClassAppWorksheet\obj\Debug\ClassAppWorksheet.csproj.AssemblyReference.cache
+D:\Projects\Study\TheBasics\ClassAppWorksheet\ClassAppWorksheet\obj\Debug\ClassAppWorksheet.csproj.CoreCompileInputs.cache
+D:\Projects\Study\TheBasics\ClassAppWorksheet\ClassAppWorksheet\obj\Debug\ClassAppWorksheet.exe
+D:\Projects\Study\TheBasics\ClassAppWorksheet\ClassAppWorksheet\obj\Debug\ClassAppWorksheet.pdb

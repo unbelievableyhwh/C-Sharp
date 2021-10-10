@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FucktorialApp", "FucktorialApp\FucktorialApp.csproj", "{B6822CB1-ABC6-4DC2-87DC-CE7F2F8357DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6822CB1-ABC6-4DC2-87DC-CE7F2F8357DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6822CB1-ABC6-4DC2-87DC-CE7F2F8357DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6822CB1-ABC6-4DC2-87DC-CE7F2F8357DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6822CB1-ABC6-4DC2-87DC-CE7F2F8357DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20BB0331-B6D0-439A-B135-C7D46C655576}
+	EndGlobalSection
+EndGlobal

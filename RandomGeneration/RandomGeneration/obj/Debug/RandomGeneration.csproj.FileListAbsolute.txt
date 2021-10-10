@@ -1,0 +1,10 @@
+D:\Projects\RandomGeneration\RandomGeneration\bin\Debug\RandomGeneration.exe.config
+D:\Projects\RandomGeneration\RandomGeneration\bin\Debug\RandomGeneration.exe
+D:\Projects\RandomGeneration\RandomGeneration\bin\Debug\RandomGeneration.pdb
+D:\Projects\RandomGeneration\RandomGeneration\obj\Debug\RandomGeneration.csproj.AssemblyReference.cache
+D:\Projects\RandomGeneration\RandomGeneration\obj\Debug\RandomGeneration.Form1.resources
+D:\Projects\RandomGeneration\RandomGeneration\obj\Debug\RandomGeneration.Properties.Resources.resources
+D:\Projects\RandomGeneration\RandomGeneration\obj\Debug\RandomGeneration.csproj.GenerateResource.cache
+D:\Projects\RandomGeneration\RandomGeneration\obj\Debug\RandomGeneration.csproj.CoreCompileInputs.cache
+D:\Projects\RandomGeneration\RandomGeneration\obj\Debug\RandomGeneration.exe
+D:\Projects\RandomGeneration\RandomGeneration\obj\Debug\RandomGeneration.pdb

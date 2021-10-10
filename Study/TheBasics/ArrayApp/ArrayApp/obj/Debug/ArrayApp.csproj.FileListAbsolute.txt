@@ -1,0 +1,7 @@
+D:\Projects\Study\TheBasics\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe.config
+D:\Projects\Study\TheBasics\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe
+D:\Projects\Study\TheBasics\ArrayApp\ArrayApp\bin\Debug\ArrayApp.pdb
+D:\Projects\Study\TheBasics\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csproj.AssemblyReference.cache
+D:\Projects\Study\TheBasics\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+D:\Projects\Study\TheBasics\ArrayApp\ArrayApp\obj\Debug\ArrayApp.exe
+D:\Projects\Study\TheBasics\ArrayApp\ArrayApp\obj\Debug\ArrayApp.pdb
