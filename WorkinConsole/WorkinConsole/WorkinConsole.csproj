@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9AD55348-7BF5-4F6A-8160-597E31A448AA}</ProjectGuid>
+    <ProjectGuid>{1CBA9DE1-5595-4A40-8CF9-7A494BDB6BCF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassAppWorksheet</RootNamespace>
-    <AssemblyName>ClassAppWorksheet</AssemblyName>
+    <RootNamespace>WorkinConsole</RootNamespace>
+    <AssemblyName>WorkinConsole</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="People.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

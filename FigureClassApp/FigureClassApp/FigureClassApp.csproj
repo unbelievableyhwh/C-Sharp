@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9AD55348-7BF5-4F6A-8160-597E31A448AA}</ProjectGuid>
+    <ProjectGuid>{A5237181-4AF6-422A-A62F-D22B798DC213}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassAppWorksheet</RootNamespace>
-    <AssemblyName>ClassAppWorksheet</AssemblyName>
+    <RootNamespace>FigureClassApp</RootNamespace>
+    <AssemblyName>FigureClassApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="People.cs" />
+    <Compile Include="Circle.cs" />
+    <Compile Include="Figure.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Square.cs" />
+    <Compile Include="Triangle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
