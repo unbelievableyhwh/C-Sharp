@@ -1,0 +1,18 @@
+﻿<Window x:Class="DataBaseWPFApplication.PersonalArea"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBaseWPFApplication"
+        mc:Ignorable="d"
+        Title="DataBaseWPFApplication" Height="450" Width="600">
+    <Grid MinWidth="300" MaxWidth="450" >
+        <StackPanel>
+            <TextBlock x:Name="label1" Text="Welcome Back, " FontSize="30" FontWeight="Bold" Margin="50" HorizontalAlignment="Center"/>
+            <ComboBox x:Name="tableNav" HorizontalAlignment="Right" materialDesign:HintAssist.Hint="Select table" Width="131" SelectionChanged="tableNav_Selected"/>
+            <DataGrid x:Name="dataGrid" Style="{StaticResource MaterialDesignDataGrid}">
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

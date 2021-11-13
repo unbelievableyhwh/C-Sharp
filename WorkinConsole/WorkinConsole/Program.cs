@@ -17,14 +17,17 @@ namespace WorkinConsole
             */
             Console.Title = "Цвета консоли";
             ConsoleColor[] colors = { ConsoleColor.Blue, ConsoleColor.Red, ConsoleColor.White, ConsoleColor.Magenta, ConsoleColor.DarkYellow, ConsoleColor.Cyan, ConsoleColor.Green, ConsoleColor.DarkGray };
-            foreach (ConsoleColor color in colors)
+            while (true)
             {
-                Console.CursorLeft = (Console.BufferWidth - ConsoleColor.Blue.ToString().Length) / 2;
-                Console.CursorTop = 10;
-                Console.ForegroundColor = color;
-                Console.WriteLine("YHWH");
-                Thread.Sleep(1000);
-                Console.Clear();
+                foreach (ConsoleColor color in colors)
+                {
+                    Console.CursorLeft = (Console.BufferWidth - ConsoleColor.Blue.ToString().Length) / 2;
+                    Console.CursorTop = 10;
+                    Console.ForegroundColor = color;
+                    Console.WriteLine("YHWH");
+                    Thread.Sleep(500);
+                    Console.Clear();
+                }
             }
 
 
